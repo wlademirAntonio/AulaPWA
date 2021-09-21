@@ -4,7 +4,7 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "A simply readable Hacker News app.",
+  "description": "App PWA",
   "icons": [{
     "src": "images/iconPWA48.png",
     "sizes": "48x48",
@@ -32,8 +32,5 @@
   }],
   "related_applications": [{
     "platform": "web"
-  }, {
-    "platform": "play",
-    "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
   }]
 }
