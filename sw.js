@@ -1,3 +1,4 @@
+
 var cacheName = 'NomeApp-v';
 var filesToCache = [
     './',
